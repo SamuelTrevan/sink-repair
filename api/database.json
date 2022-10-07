@@ -1,0 +1,49 @@
+{
+  "plumbers": [
+    {
+      "id": 1,
+      "name": "Maude"
+    },
+    {
+      "id": 2,
+      "name": "Merle"
+    }
+  ],
+  "completions": [
+    {
+      "requestId": 1,
+      "plumberId": 2,
+      "date_created": 1665066078404,
+      "id": 1
+    },
+    {
+      "requestId": 2,
+      "plumberId": 1,
+      "date_created": 1665066143119,
+      "id": 2
+    }
+  ],
+  "requests": [
+    {
+      "id": 1,
+      "description": "Aut sint voluptatem fugit eius quas molestiae modi.",
+      "address": "34445 Bianka Ports",
+      "budget": 400,
+      "neededBy": "2021-08-27"
+    },
+    {
+      "description": "kitchen sink leaking",
+      "address": "123 main st",
+      "budget": "125",
+      "neededBy": "2022-10-18",
+      "id": 2
+    },
+    {
+      "description": "bathroom shower leaking",
+      "address": "789 main st",
+      "budget": "345",
+      "neededBy": "2022-10-26",
+      "id": 3
+    }
+  ]
+}
